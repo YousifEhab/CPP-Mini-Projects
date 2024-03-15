@@ -129,8 +129,7 @@ cout << "Hi" << endl;
 
 # 16-
 ### Write a C++ program to find the roots of a quadratic equation using the if else statement. There are three cases based on the determinant (b^2 - 4ac).
-
-
+![image](https://github.com/YousifEhab/CPP-Mini-Projects/assets/145108594/29bba875-df03-4167-a35a-f6285815b453)
 
 
 
