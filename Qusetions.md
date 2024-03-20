@@ -154,11 +154,12 @@ cout << "Hi" << endl;
 
 # 20 - Distance Converter:
 ### Write a program that converts distances between different units (e.g., kilometers to miles, meters to feet) as following.
-###### 1-Km to miles
-###### 2-miles to Km
-###### 3-ft to cm
-###### 4-cm to ft
 ### Allow the user to choose the conversion they want to perform.
+###### 1- Km to miles
+###### 2- miles to Km
+###### 3- ft to cm
+###### 4- cm to ft
+
 ### table of conversions
 ##### 1 mile is 0.62 kilometer 
 ##### 1 foot is 30.48 centimeters
