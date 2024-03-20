@@ -146,4 +146,21 @@ cout << "Hi" << endl;
 - Percentage >= 65% : Grade C
 - Percentage >= 60% : Grade D
 - Percentage < 60% : Grade F
+# 18- Time Converter:
+### Create a program that takes an input time in 24-hour format (hh:mm:ss) and converts it to 12-hour format (hh:mm:ss AM/PM).
+##### tip: use 3 variable h,m,s to store hours,minutes,seconds respectively.
+# 19- Alarm Clock:
+### Create a program that takes the current time in 24-hour format (hh:mm:ss) as input and sets off an alarm after a specified number of hours and minutes.
+
+# 20 - Distance Converter:
+### Write a program that converts distances between different units (e.g., kilometers to miles, meters to feet) as following.
+###### 1-Km to miles
+###### 2-miles to Km
+###### 3-ft to cm
+###### 4-cm to ft
+### Allow the user to choose the conversion they want to perform.
+### table of conversions
+##### 1 mile is 0.62 kilometer 
+##### 1 foot is 30.48 centimeters
+
 
