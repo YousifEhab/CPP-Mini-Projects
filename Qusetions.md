@@ -151,7 +151,7 @@ cout << "Hi" << endl;
 ##### tip: use 3 variable h,m,s to store hours,minutes,seconds respectively.
 # 19- Alarm Clock:
 ### Create a program that takes the current time in 24-hour format (hh:mm:ss) as input and sets off an alarm after a specified number of hours and minutes.
-### display the time when the alarm will ring.
+### display the time when the alarm will ring in 12-hour format.
 
 # 20 - Distance Converter:
 ### Write a program that converts distances between different units (e.g., kilometers to miles, meters to feet) as following.
