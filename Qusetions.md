@@ -171,7 +171,7 @@ cout << "Hi" << endl;
 # 22 - Pi finder
 ### An approximate value of π can be calculated using the series given below:
 ##### π = 4 (1-1/3+1/5 - 1/7 + 1/9 + ... + (-1)^n/(2n+1)). 
-###### Write a program to calculate the approximate value of using this series. The program takes an input n that determines the number of terms in the approximation of the value of π and outputs the approximation. Include a loop that allows the user to repeat this calculation for new values n until the user says she or he wants to end the program.
+##### Write a program to calculate the approximate value of using this series. The program takes an input n that determines the number of terms in the approximation of the value of π and outputs the approximation. Include a loop that allows the user to repeat this calculation for new values n until the user says she or he wants to end the program.
 
 # 23 - Summation
 ### Write a program that prints the summation of every number from 1 to num. if the number entered is less than 1 output "invalid input". 
