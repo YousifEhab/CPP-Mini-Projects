@@ -170,7 +170,8 @@ cout << "Hi" << endl;
 
 # 22 - Pi finder
 ### An approximate value of π can be calculated using the series given below:
-π = 4 (1-1/3+1/5 - 1/7 + 1/9 + ... + (-1)^n/(2n+1)). Write a program to calculate the approximate value of using this series. The program takes an input n that determines the number of terms in the approximation of the value of π and outputs the approximation. Include a loop that allows the user to repeat this calculation for new values n until the user says she or he wants to end the program.
+##### π = 4 (1-1/3+1/5 - 1/7 + 1/9 + ... + (-1)^n/(2n+1)). 
+###### Write a program to calculate the approximate value of using this series. The program takes an input n that determines the number of terms in the approximation of the value of π and outputs the approximation. Include a loop that allows the user to repeat this calculation for new values n until the user says she or he wants to end the program.
 
 # 23 - Summation
 ### Write a program that prints the summation of every number from 1 to num. if the number entered is less than 1 output "invalid input". 
@@ -216,7 +217,12 @@ cout << "Hi" << endl;
 ```
 ### output
 ```
-2^1 = 2, 2^2 = 4, 2^3 = 8, 2^4 = 16, 2^5 = 32, 2^6 = 64.
+2^1 = 2
+2^2 = 4
+2^3 = 8
+2^4 = 16
+2^5 = 32
+2^6 = 64
 ```
 # 30 - Collatz Conjecture
 ### Write a program that demonstrates the Collatz conjecture. Start with a positive integer, and repeatedly apply the following rules:
@@ -228,5 +234,9 @@ cout << "Hi" << endl;
 ```
 ##### output
 ```
-5*3+1 = 16 , 16/2 = 8 , 8/2 = 4 , 4/2 = 2 , 2/2 = 1
+5*3+1 = 16 
+16/2 = 8 
+8/2 = 4 
+4/2 = 2 
+2/2 = 1
 ```
