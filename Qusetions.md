@@ -165,4 +165,67 @@ cout << "Hi" << endl;
 ##### 1 mile is 0.62 kilometer 
 ##### 1 foot is 30.48 centimeters
 
+# 21 - Star box
+### Write a C++ program that accepts a single integer value entered by the user. If the value entered is less than one, the program prints nothing. If the user enters a positive integer, n, the program prints an nxn box drawn with characters.
 
+# 22 - Pi finder
+### An approximate value of π can be calculated using the series given below: π = 4 (1-1/3+1/5 - 1/7 + 1/9 + ... + (-1)^n/(2n+1)). Write a program to calculate the approximate value of using this series. The program takes an input n that determines the number of terms in the approximation of the value of π and outputs the approximation. Include a loop that allows the user to repeat this calculation for new values n until the user says she or he wants to end the program.
+
+# 23 - Summation
+### Write a program that prints the summation of every number from 1 to num. if the number entered is less than 1 output "invalid input". 
+```
+2 -> 3 (1 + 2)
+8 -> 36 (1 + 2 + 3 + 4 + 5 + 6 + 7 + 8)
+```
+# 24 - Count Odd Numbers below n
+### Given a number n, print the number of positive odd numbers below n.
+```
+7  -> 3 (because odd numbers below 7 are [1, 3, 5])
+15 -> 7 (because odd numbers below 15 are [1, 3, 5, 7, 9, 11, 13])
+```
+# 25 - Get Nth Even Number
+### Return the Nth Even Number
+```
+1 --> 0 (the first even number is 0)
+3 --> 4 (the 3rd even number is 4 (0, 2, 4))
+100 --> 198
+1298734 --> 2597466
+```
+# 26 - Factorial Calculation
+### Write a program that calculates the factorial of a given positive integer using a loop (e.g., 5! = 5 * 4 * 3 * 2 * 1 ).
+
+# 27 - Prime Number Checker
+### Create a program that checks if a given number is prime using a loop. The user inputs the number, and the program verifies whether it is prime or not.
+
+# 28 - Palindrome Check
+### Print Triangle of Stars: Design a program that prints a triangle of stars (e.g., for input 5, print the following pattern):
+```
+*
+**
+***
+****
+*****
+```
+# 29 - Table of Powers
+### Create a program that generates a table of powers for a given base and No. of repetetions:
+##### input
+```
+2
+6
+```
+### output
+```
+2^1 = 2, 2^2 = 4, 2^3 = 8, 2^4 = 16, 2^5 = 32, 2^6 = 64.
+```
+# 30 - Collatz Conjecture
+Write a program that demonstrates the Collatz conjecture. Start with a positive integer, and repeatedly apply the following rules:
+* If the number is even, divide it by 2.
+* If the number is odd, multiply it by 3 and add 1. Continue until the number becomes 1.
+### input
+```
+5
+```
+output
+```
+5*3+1 = 16 , 16/2 = 8 , 8/2 = 4 , 4/2 = 2 , 2/2 = 1
+```
