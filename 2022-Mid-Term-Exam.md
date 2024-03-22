@@ -1,4 +1,5 @@
-# Q1 - what is the output of the following program. Explain your answer. 
+# Q1 
+what is the output of the following program. Explain your answer. 
 ```
 int main() {
 int x = 10;
@@ -8,7 +9,8 @@ cout << x;
 return 0;
 }
 ```
-# Q2 - What is the output of the following program. run the program twice, one with x = 11 and one with x = 20. Explain your answer.
+# Q2 
+What is the output of the following program. run the program twice, one with x = 11 and one with x = 20. Explain your answer.
 ```
 int main () {
   int x ;
@@ -27,7 +29,8 @@ int main () {
   return 0;
 }
 ```
-# Q3 - Write a program to check whether a triangle is Equilateral ( all sides are equal ) , isosceles ( only two sides are equal ) or scalene ( no sides are equal ). 
+# Q3 
+Write a program to check whether a triangle is Equilateral ( all sides are equal ) , isosceles ( only two sides are equal ) or scalene ( no sides are equal ). 
 Sample Output:
 ```
 input three sides of triangle:
@@ -36,7 +39,8 @@ input three sides of triangle:
 60
 This is an isoceles triangle.
 ```
-# Q4 - Write a program to read from the user two numbers and computes their Highest Common Factor (HCF). 
+# Q4 
+Write a program to read from the user two numbers and computes their Highest Common Factor (HCF). 
 HCF of two integers is the largest positive integer that divides each of the integers. For example, HCF of 32 and 12 is 4.
 Sample Output:
 ```
