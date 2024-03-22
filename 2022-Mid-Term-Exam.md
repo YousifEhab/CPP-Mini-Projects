@@ -22,6 +22,7 @@ int main () {
       d+= (++a > b || a++ != a*b ) * a;
     case 7:
       d+= (a*a < b && ++a > b) -2 * a;
+      break;
     default:
       d+= 3*b;
   }
