@@ -1,7 +1,12 @@
-# CPP-Mini-Projects
+# C++ Mini Projects
 
-- This repository is made with intention to help getting more familiar with c++.
-- Questions are either collected from Doctor's sheets, old exams or online website so feel free to contact me if there is any errors.
-- This reprository is not monitored by anyone except me so it's not an official source.
-- Contact Info:
-- Email: mr.yousifehab@gmail.com
+Welcome to the CPP-Mini-Projects repository.
+
+## Purpose
+This repository is designed to aid in becoming more proficient with C++ programming. The questions provided are sourced from various materials such as professor's sheets, previous exams, and reputable online platforms. If you encounter any errors or have any inquiries, please don't hesitate to reach out.
+
+## Note
+Please be aware that this repository is not officially monitored by any organization other than myself. Consequently, it should not be considered an authoritative source.
+
+## Contact Information
+Feel free to contact me via email at: mr.yousifehab@gmail.com
