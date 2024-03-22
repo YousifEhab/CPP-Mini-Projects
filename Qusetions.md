@@ -219,14 +219,14 @@ cout << "Hi" << endl;
 2^1 = 2, 2^2 = 4, 2^3 = 8, 2^4 = 16, 2^5 = 32, 2^6 = 64.
 ```
 # 30 - Collatz Conjecture
-Write a program that demonstrates the Collatz conjecture. Start with a positive integer, and repeatedly apply the following rules:
+### Write a program that demonstrates the Collatz conjecture. Start with a positive integer, and repeatedly apply the following rules:
 * If the number is even, divide it by 2.
 * If the number is odd, multiply it by 3 and add 1. Continue until the number becomes 1.
-### input
+##### input
 ```
 5
 ```
-output
+##### output
 ```
 5*3+1 = 16 , 16/2 = 8 , 8/2 = 4 , 4/2 = 2 , 2/2 = 1
 ```
