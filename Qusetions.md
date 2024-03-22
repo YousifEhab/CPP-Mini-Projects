@@ -194,8 +194,11 @@ cout << "Hi" << endl;
 1298734 --> 2597466
 ```
 # 26 - Factorial Calculation
-### Write a program that calculates the factorial of a given positive integer using a loop (e.g., 5! = 5 * 4 * 3 * 2 * 1 = 120).
-
+### Write a program that calculates the factorial of a given positive integer using a loop (e.g., 5! = 5 * 4 * 3 * 2 * 1).
+```
+5
+120
+```
 # 27 - Prime Number Checker
 ### Create a program that checks if a given number is prime using a loop. The user inputs the number, and the program verifies whether it is prime or not.
 ```
