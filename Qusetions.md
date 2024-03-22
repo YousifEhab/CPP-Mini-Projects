@@ -198,7 +198,7 @@ cout << "Hi" << endl;
 # 27 - Prime Number Checker
 ### Create a program that checks if a given number is prime using a loop. The user inputs the number, and the program verifies whether it is prime or not.
 
-# 28 - Palindrome Check
+# 28 - Print Triangle of Stars
 ### Print Triangle of Stars: Design a program that prints a triangle of stars (e.g., for input 5, print the following pattern):
 ```
 *
