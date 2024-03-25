@@ -9,7 +9,7 @@ case 10: cout <<” 10 , ” ;
 ```
 ## What is the output when:
 (a) x = 0
-⃝ ”no thing will be printed” ⃝ default,4,2, ⃝ default,4,2,10, ⃝ 4,2, ⃝ 10, ⃝ 10,default,
+• ”no thing will be printed” ⃝ default,4,2, ⃝ default,4,2,10, ⃝ 4,2, ⃝ 10, ⃝ 10,default,
 (b) x = 2
 ⃝ ”no thing will be printed” ⃝ default,4,2, ⃝ default,4,2,10, ⃝ 4,2, ⃝ 10, ⃝ 10,default,
 # 2- Write a C ++ condition to express the following:
