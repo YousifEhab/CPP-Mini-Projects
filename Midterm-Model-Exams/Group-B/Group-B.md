@@ -1,4 +1,4 @@
-## 1- Consider the following snippet of the code.
+# 1- Consider the following snippet of the code.
 ```
 switch ( x*2){
 default : cout <<” d efault , ” ;
