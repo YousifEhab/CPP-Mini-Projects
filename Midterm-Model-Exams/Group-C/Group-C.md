@@ -10,19 +10,31 @@ switch (x*3){
     case 12: cout <<” 12, ”;
 }
 ```
-What is the output when:
-(a) x = 6
+## What is the output when:
+### (a) x = 6
+- ”no thing will be printed” 
+- 9,default,6, 
+- default, 
+- 12,
+- default,6
+- 12,default,
+### (b) x = 4
 ⃝ ”no thing will be printed” ⃝ 9,default,6, ⃝ default, ⃝ 12, ⃝ default,6 ⃝ 12,default,
-(b) x = 4
-⃝ ”no thing will be printed” ⃝ 9,default,6, ⃝ default, ⃝ 12, ⃝ default,6 ⃝ 12,default,
-# 3. Assuming int x = 5, what is the value of x after executing each of the following (each one should be run
-individually)?
-(a) x+ = 5+ −−x;
-⃝ 12 ⃝ 14 ⃝ 13 ⃝ 11
-(b) x = x ∗ 5%3;
-⃝ 10 ⃝ 5 ⃝ 1
-(c) x = 5/x && x − 10;
-⃝ 1 ⃝ 0 ⃝ True ⃝ False
+# 3. Assuming int x = 5, what is the value of x after executing each of the following (each one should be run individually)?
+### (a) x+ = 5+ −−x;
+- 12 
+- 14 
+- 13 
+- 11
+### (b) x = x ∗ 5%3;
+- 10 
+- 5 
+- 1
+### (c) x = 5/x && x − 10;
+- 1 
+- 0 
+- True 
+- False
 (d) x = x++ %5 ∥ x − 5;
 ⃝ 1 ⃝ 0 ⃝ True ⃝ False ⃝ 6
 # 4. What is the output of the following:
