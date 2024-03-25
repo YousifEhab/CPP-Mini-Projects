@@ -1,4 +1,4 @@
-# 1- Consider the following snippet of the code.
+# 1- Consider the following snippet of the code:
 ```
 switch (x*2){
 default : cout <<” d efault , ” ;
@@ -67,7 +67,7 @@ cout << input << endl;
 #### (a) 8
 #### (b) 12
 #### (c) 11
-# 5- What is the output of the following
+# 5- What is the output of the following:
 ```
 int x = 10;
 if ( x > 0)
