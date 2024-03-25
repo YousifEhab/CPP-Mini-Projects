@@ -51,8 +51,8 @@ switch (x*3){
 int y = 10;
 if ( y++ > 6)
     if ( y−− < 20)
-        cout <<” This group\ t ” ;
-        cout <<” Perfect. ” ;
+        cout <<”This group \t ” ;
+        cout <<”Perfect. ” ;
 ```
 # 5. Consider the following program:
 ```
