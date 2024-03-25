@@ -1,7 +1,7 @@
 # Q(1)
 ## a) Write C++ program to compute the following f(n) for a given n
 ![image](https://github.com/YousifEhab/CPP-Mini-Projects/assets/145108594/98e33a7f-e4ed-4c28-849c-d2c6328f46d3)
-## b) trace the following C++ code and conclude the ouptput:
+## b) trace the following C++ code and conclude the output:
 ```
 int i = 1,f=3,n=10,s=0;
 while(i<=n){
