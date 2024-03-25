@@ -23,17 +23,29 @@ case 10: cout <<” 10 , ” ;
 -   10,
 -   10,default,
 # 2- Write a C ++ condition to express the following:
-(a) n is between 0 and 20 but not odd 
-(b) n is divisible by 7 or divisible by 3
+## (a) n is between 0 and 20 but not odd 
+## (b) n is divisible by 7 or divisible by 3
 # 3- Assuming int x = 4, what is the value of x after executing each of the following (each one should be run individually)?
-(a) x+ = 2+ ++ x;
-⃝ 12 ⃝ 14 ⃝ 13 ⃝ 11
-(b) x = x%3 ∗ 5;
-⃝ 10 ⃝ 5 ⃝ 0
+#### (a) x+ = 2+ ++ x;
+- 12
+- 14
+- 13
+- 11
+#### (b) x = x%3 ∗ 5;
+- 10
+- 5
+- 0
 (c) x = 10/x && x − 7;
-⃝ 1 ⃝ 0 ⃝ True ⃝ False
+- 1
+- 0
+- True
+- False
 (d) x = x%5 ∥ x ++ −5;
-⃝ 1 ⃝ 0 ⃝ True ⃝ False ⃝ 6
+- 1
+- 0 
+- True 
+- False 
+- 6
 # 4-  Consider the following program:
 ```
 int input;
@@ -51,7 +63,7 @@ if (input<10) {
 }
 cout << input << endl;
 ```
-What will the program print if the user provides the following input?
+## What will the program print if the user provides the following input?
 (a) 8
 (b) 12
 (c) 11
