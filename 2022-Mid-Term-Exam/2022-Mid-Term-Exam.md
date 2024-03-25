@@ -1,6 +1,6 @@
 # Q1 
 what is the output of the following program. Explain your answer. 
-```
+```cpp
 int main() {
 int x = 10;
 for ( int i = 3; i > 1; --i)
@@ -11,7 +11,7 @@ return 0;
 ```
 # Q2 
 What is the output of the following program. run the program twice, one with x = 11 and one with x = 20. Explain your answer.
-```
+```cpp
 int main () {
   int x ;
   cin >> x ;
