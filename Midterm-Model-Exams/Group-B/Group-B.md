@@ -26,7 +26,7 @@ case 10: cout <<" 10, " ;
 ### (a) n is between 0 and 20 but not odd 
 ### (b) n is divisible by 7 or divisible by 3
 # 3- Assuming int x = 4, what is the value of x after executing each of the following (each one should be run individually)?
-#### (a) x+ = 2+ ++x;
+#### (a) x += 2+ ++x;
 - 12
 - 14
 - 13
