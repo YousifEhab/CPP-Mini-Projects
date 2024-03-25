@@ -1,9 +1,9 @@
-# Q1
+ # Q1
 ```
 37
 ```
 ### explanation
-``` cpp
+```cpp
     /*
     first loop
     {x+= x--} ====> {10 += 10} ==> (x=20) / {x--} ==> (x = 20-1 = 19) 
@@ -13,14 +13,14 @@
 ```
 # Q2
 ## a) x = 11
-```
+```cpp
 x = 10
 a = 5
 b = 2
 d = -5
 ```
 ### explanation
-```
+```cpp
 /*
 When x = 11
 switch (10)
@@ -36,7 +36,7 @@ d = -5
 */
 ```
 ## b) x = 20
-```
+```cpp
 /*
 When x = 20
 switch (19)
@@ -50,7 +50,7 @@ d = 6
 */
 ```
 # Q3
-```
+```cpp
 #include <iostream>
 using namespace std;
 int main()
@@ -68,7 +68,7 @@ int main()
 }
 ```
 # Q4
-```
+```cpp
 #include <iostream>
 using namespace std;
 int main()
