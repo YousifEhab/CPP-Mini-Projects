@@ -1,5 +1,5 @@
 # 1- Consider the following snippet of the code:
-```
+```cpp
 switch (x*2){
 default : cout <<"default, " ;
 case 4: cout <<" 4, " ;
@@ -47,7 +47,7 @@ case 10: cout <<" 10, " ;
 - False 
 - 6
 # 4-  Consider the following program:
-```
+```cpp
 int input;
 cin >> input;
 if (input<10) {
@@ -68,7 +68,7 @@ cout << input << endl;
 #### (b) 12
 #### (c) 11
 # 5- What is the output of the following:
-```
+```cpp
 int x = 10;
 if ( x > 0)
     if ( x < 8)
