@@ -2,7 +2,7 @@
 - (a) y is odd but not 13
 - (b) n is divisible by 7 or divisible by 5
 # 2. Consider the following snippet of the code:
-```
+```cpp
 switch (x*3){
     case 9: cout <<” 9, ”;
     default : cout <<” default , ”;
@@ -47,7 +47,7 @@ switch (x*3){
 - False 
 - 6
 # 4. What is the output of the following:
-```
+```cpp
 int y = 10;
 if ( y++ > 6)
     if ( y−− < 20)
@@ -55,7 +55,7 @@ if ( y++ > 6)
         cout <<”Perfect. ” ;
 ```
 # 5. Consider the following program:
-```
+```cpp
 int y ;
 cin >> y ;
     if ( y < 15) {
