@@ -50,14 +50,14 @@ y+= x % 3; x++;
 ]while{1/x > 0.01};
 ```
 # Question Two
-Implement the following using C++ code:
-a)Write C++ for-loop to compute:
+## Implement the following using C++ code:
+### a)Write C++ for-loop to compute:
 ![image](https://github.com/YousifEhab/CPP-Mini-Projects/assets/145108594/2364a92d-7d28-4567-a024-64be0d36e03e)
-b)Write C++ switch-statement to compute (you can use if-statement in the body of switch-statement).
+### b)Write C++ switch-statement to compute (you can use if-statement in the body of switch-statement).
 ![image](https://github.com/YousifEhab/CPP-Mini-Projects/assets/145108594/18e96379-bf33-4c8d-a203-b7b6a1c7c54e)
-c)Use C++ nested loop to compute:
+### c)Use C++ nested loop to compute:
 ![image](https://github.com/YousifEhab/CPP-Mini-Projects/assets/145108594/ba30b624-d269-42a0-a972-d89a59c2a9d4)
-d) Out of Midterm scope
+### d) Out of Midterm scope
 # Question Three
 ## I. Trace the following C++ code and conclude the output:
 ```
