@@ -59,7 +59,8 @@ y+= x % 3; x++;
 ![image](https://github.com/YousifEhab/CPP-Mini-Projects/assets/145108594/ba30b624-d269-42a0-a972-d89a59c2a9d4)
 ### d) Out of Midterm scope
 # Question Three
-## I. Trace the following C++ code and conclude the output:
+## I.
+### Trace the following C++ code and conclude the output:
 ```
 int i=1, f=5, s=2;
 while( i <= 7){
