@@ -19,7 +19,12 @@ switch (x*3){
 - default,6
 - 12,default,
 ### (b) x = 4
-⃝ ”no thing will be printed” ⃝ 9,default,6, ⃝ default, ⃝ 12, ⃝ default,6 ⃝ 12,default,
+- ”no thing will be printed” 
+- 9,default,6, 
+- default, 
+- 12, 
+- default,6 
+- 12,default,
 # 3. Assuming int x = 5, what is the value of x after executing each of the following (each one should be run individually)?
 ### (a) x+ = 5+ −−x;
 - 12 
@@ -36,7 +41,11 @@ switch (x*3){
 - True 
 - False
 (d) x = x++ %5 ∥ x − 5;
-⃝ 1 ⃝ 0 ⃝ True ⃝ False ⃝ 6
+- 1 
+- 0 
+- True 
+- False 
+- 6
 # 4. What is the output of the following:
 ```
 int y = 10;
@@ -62,7 +71,7 @@ cin >> y ;
 }
 cout << y << endl ;
 ```
-What will the program print if the user provides the following input?
-(a) 21
-(b) 9
-(c) 32
+## What will the program print if the user provides the following input?
+### (a) 21
+### (b) 9
+### (c) 32
