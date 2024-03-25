@@ -1,6 +1,6 @@
 # 1. Write a C ++ condition to express the following:
-(a) y is odd but not 13
-(b) n is divisible by 7 or divisible by 5
+- (a) y is odd but not 13
+- (b) n is divisible by 7 or divisible by 5
 # 2. Consider the following snippet of the code:
 ```
 switch (x*3){
