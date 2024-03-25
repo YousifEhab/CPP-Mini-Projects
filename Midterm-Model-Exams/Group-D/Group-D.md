@@ -1,5 +1,5 @@
 # 1. Consider the following program:
-```
+```cpp
 int y ;
 cin >> y ;
 if ( y < 20) {
@@ -20,7 +20,7 @@ cout << y << endl ;
 ### (b) 18 
 ### (c) 12
 # 2. Consider the following snippet of the code.
-```
+```cpp
 switch (x*3){
 case 9: cout <<” 9, ” ;
 default : cout <<” default , ” ;
@@ -67,7 +67,7 @@ case 12: cout <<” 12, ” ;
 ### (a) z is a positive even number 
 ### (b) z could be 5 or more but not odd
 # 5. What is the output of the following
-```
+```cpp
 int y = 12;
 if (1 < ++y )
     if ( 36 > y++)
