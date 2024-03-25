@@ -73,7 +73,7 @@ int main()
 using namespace std;
 int main()
 {
-    int x, y, hcf = 0;
+    int x, y, hcf = 1;
     cin >> x >> y;
     for (int i = 2; i <= min(x, y); i++)
     {
