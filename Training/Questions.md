@@ -166,7 +166,7 @@ cout << "Hi" << endl;
 ##### 1 foot is 30.48 centimeters
 
 # 21 - Star box
-### Write a C++ program that accepts a single integer value entered by the user. If the value entered is less than one, the program prints nothing. If the user enters a positive integer, n, the program prints an n*n box drawn with '*' character.
+### Write a C++ program that accepts a single integer value entered by the user. If the value entered is less than one, the program prints nothing. If the user enters a positive integer, n, the program prints an n * n box drawn with '*' character.
 
 # 22 - Pi finder
 ### An approximate value of π can be calculated using the series given below:
