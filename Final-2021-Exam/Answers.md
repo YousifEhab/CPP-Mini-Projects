@@ -23,12 +23,12 @@ i=2, j7 ,t=36
 ```
 ## II
 ### a)
-```
+```cpp
 float x=1,sum = 0;
 while(x != 0){ cin >> x; sum+= x*x;}
 ```
 ### b)
-```
+```cpp
 double x=1 ,y =0;
 do{
 y += int(x) % 3; x++;
@@ -36,7 +36,7 @@ y += int(x) % 3; x++;
 ```
 # Q2
 ### a)
-```
+```cpp
 int sum = 0, n, sign = 1;
     cin >> n;
     for (int i = 1; i <= n; i++)
@@ -46,7 +46,7 @@ int sum = 0, n, sign = 1;
     }
 ```
 ### b)
-```
+```cpp
 int x, f;
     cin >> x;
     switch (x)
@@ -69,7 +69,7 @@ int x, f;
     cout << "f=" << f << endl;
 ```
 ### c)
-```
+```cpp
 for (int i = 3; i <= 10; i++)
         for (int j = i + 1; j <= 15; j++)
             sum += i + i * j;
@@ -84,7 +84,7 @@ i=3, f=9, s=18
 i=4, f=13, s=234
 ```
 ## II
-```
+```cpp
 #include <iostream>
 using namespace std;
 int main()
