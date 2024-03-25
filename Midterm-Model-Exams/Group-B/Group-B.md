@@ -1,7 +1,7 @@
 # 1- Consider the following snippet of the code:
 ```
 switch (x*2){
-default : cout <<" default, " ;
+default : cout <<"default, " ;
 case 4: cout <<" 4, " ;
 case 2: cout <<" 2, " ; break ;
 case 10: cout <<" 10, " ;
