@@ -1,14 +1,14 @@
 # Question one
 ## I. What is the output when the following code segment is executed?
 ### a)
-```
+```cpp
 int x=3,y=4, a, b;
 a = ( x+1 > 5 ? 10 : 20 ); cout<<"a="<<a<<endl;
 b = ( x+y > x*y/2 ? (y+3 > 5 ? 30:40 ) : 0 ); cout<<"b="<< b <<endl;
 ```
 
 ### b)
-```
+```cpp
 int sum =0;
 for (int i=1; i < 9; i++){
 if (i%2 == 0) sum+=i;
@@ -18,7 +18,7 @@ cout << "sum"<<sum;
 ```
 
 ### c)
-```
+```cpp
 int i=1, f=3, s=1;
 switch(i%3){
 case 1: f+=1; cout<<"f="<<f ;
@@ -27,7 +27,7 @@ default: f+=3; cout<<"f="<<f ;
 }
 ```
 ### d)
-```
+```cpp
 int t=0;
 for(int i=1;i<=2;i++)
 for(int j=5;j<8;j+=2){
@@ -37,13 +37,13 @@ cout<<"i="<<i<<", j"<<j<<" ,t="<<t ;}
 
 ## II. rewrite the following code after correcting the C++ syntax errors:
 ### a)
-```
+```cpp
 FLOAT $x=1,0=sum;
 While{$x not equal 0}( input x; sum+= $x*$x;)
 ```
 
 ### b)
-```
+```cpp
 double x=1 ,y =0;
 do;[
 y+= x % 3; x++;
@@ -61,7 +61,7 @@ y+= x % 3; x++;
 # Question Three
 ## I.
 ### Trace the following C++ code and conclude the output:
-```
+```cpp
 int i=1, f=5, s=2;
 while( i <= 7){
 if(i%2==0){
