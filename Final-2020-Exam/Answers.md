@@ -1,6 +1,6 @@
 # Q1
 ## a)
-```
+```cpp
 #include <iostream>
 #include <cmath>
 using namespace std;
@@ -34,7 +34,7 @@ i=9, f=486, s=549
 ```
 # Q2
 ## a)
-```
+```cpp
 #include <iostream>
 #include <cmath>
 using namespace std;
@@ -51,7 +51,7 @@ int main()
 }
 ```
 ## b)
-```
+```cpp
 #include <iostream>
 #include <cmath>
 using namespace std;
