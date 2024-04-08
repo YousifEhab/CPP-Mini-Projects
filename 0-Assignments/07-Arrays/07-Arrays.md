@@ -5,7 +5,7 @@ float A(10), B{10};
 for(int i=0;i<=10;i++)
 cin>>A(i)>>B(i);
 ```
-1. corrected
+### corrected
 ```cpp
 float A[10], B[10];
 for(int i=0;i<=10;i++)
