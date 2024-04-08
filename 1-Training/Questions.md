@@ -254,3 +254,23 @@ cout << "Hi" << endl;
 4/2 = 2 
 2/2 = 1
 ```
+## 31 - Write a C++ program that reads an array of 10 integers. Then:
+1. Print out the sum of these integers and their average
+2. Print out positions of integers that are divisible by 3
+3. Compute the average of even numbers
+4. Compute the product of odd numbers
+5. Find out the maximum and minimum and the difference between them.
+
+## 32 - Write a C++ program that reads two arrays A and B of length n given by the user (1 < n < 100). Then:
+1. Compute the difference C[i] = A[i] - B[i].
+2. Compute D[i]= A[i]^2 - B[i]^2
+3. Compute E[i] = A[i]^2 + B[i]^2 - A[i] * B[i].
+
+## Write a C++ program that reads a two dimensional array M of size (3 × 3). Then:
+1. Compute the sum of all elements of M
+2. Print out the sum of elements in every row.
+3. The largest element located in the diagonal
+4. Find out the transpose of M
+
+## Make a program that reads a tow dimensional array M of size (10 × 10).
+The program will fill each location in M by its index summation (M[i][j]= i+j). Then print the summation of the elements located at the circumference.
