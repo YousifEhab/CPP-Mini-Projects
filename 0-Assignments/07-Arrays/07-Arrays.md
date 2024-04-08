@@ -46,7 +46,7 @@ The program will fill each location in M by its index summation (M[i][j]= i+j). 
 int A[]={20, 13, 5, 8 , 6, 7};
 int sum=0;
 for (int i=0;i<6;i++)
-if(A[i]%5==0)sum+=A[i]*A[i]
+if(A[i]%5==0)sum+=A[i]*A[i];
 else if(A[i]%3==0) sum+=A[i]/3;
 else if(A[i]%2==0) sum-=A[i];
 
