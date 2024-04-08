@@ -266,11 +266,9 @@ cout << "Hi" << endl;
 2. Compute D[i]= A[i]^2 - B[i]^2
 3. Compute E[i] = A[i]^2 + B[i]^2 - A[i] * B[i].
 
-## Write a C++ program that reads a two dimensional array M of size (3 × 3). Then:
+## 33- Write a C++ program that reads a two dimensional array M of size (3 × 3). Then:
 1. Compute the sum of all elements of M
 2. Print out the sum of elements in every row.
 3. The largest element located in the diagonal
 4. Find out the transpose of M
 
-## Make a program that reads a tow dimensional array M of size (10 × 10).
-The program will fill each location in M by its index summation (M[i][j]= i+j). Then print the summation of the elements located at the circumference.
