@@ -16,7 +16,7 @@ Negative value of 5 is -5
 ## 3- average of 3 numbers
 ### ask the user to input 3 integers and calculate the average of the three numbers.
 
-## Input
+Input
 ```
 2
 
@@ -24,15 +24,15 @@ Negative value of 5 is -5
 
 6
 ```
-## Output
+Output
 ```
 the average of the three numbers is equal to 4
 ```
 
-# 4- triangles
+## 4- triangles
 ### Write a program to check whether a triangle is Equilateral ( all sides are equal ) , isosceles ( only two sides are equal ) or scalene ( no sides are equal ).
 
-## Input
+Input
 three sides of triangle: 
 ```
 50
@@ -41,14 +41,14 @@ three sides of triangle:
 
 60
 ```
-## Output
+Output
 ```
 This is an isosceles triangle.
 ```
  
-# 5- Max and Min 
+## 5- Max and Min 
 ### Write a C++ program that requests four integer values from the user. It then prints the maximum and minimum values entered. 
-#### If the user enters the values 3, 2,5, and 0, the program would indicate that 5 is the maximum and 0 is the minimum.
+### If the user enters the values 3, 2,5, and 0, the program would indicate that 5 is the maximum and 0 is the minimum.
 
 # 6- Seconds to (hh:mm:ss)
 ### Write a C++ program that reads a large number of seconds, then convert this number into time format (hh:mm:ss).i.e., (hours:minutes:seconds).
