@@ -5,6 +5,12 @@ float A(10), B{10};
 for(int i=0;i<=10;i++)
 cin>>A(i)>>B(i);
 ```
+1. corrected
+```cpp
+float A[10], B[10];
+for(int i=0;i<=10;i++)
+cin >> A[i] >> B[i]; 
+```
 2.
 ```
 int B[3][]={3, 4,8, 6,
@@ -16,6 +22,7 @@ B[2][2]={(2,3),(1,4)};
 int n =10;
 int S[n];
 ```
+2. corrected
 3.
 ```
 float A()=[5, 6, 9, 4];
