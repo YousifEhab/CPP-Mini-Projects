@@ -1,4 +1,4 @@
-# 1- Return Negative.
+## 1- Return Negative.
 
 ### Ask the user to enter a positive integer and the system prints the negative value of the same integer.
 
@@ -10,10 +10,10 @@
 ```
 Negative value of 5 is -5
 ```
-# 2- Shapes Area Calculator 
+## 2- Shapes Area Calculator 
 ### Ask the user to choose between three different shapes (Rectangle - Circle - Triangle ) and based on his choice ask for the data needed to calculate the area of the shape he chooses.
 
-# 3- average of 3 numbers
+## 3- average of 3 numbers
 ### ask the user to input 3 integers and calculate the average of the three numbers.
 
 ## Input
