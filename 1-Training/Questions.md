@@ -27,30 +27,34 @@ Input
 
 6
 ```
+
 Output
 ```
 the average of the three numbers is equal to 4
 ```
 
 ## 4- triangles
+
 ### Write a program to check whether a triangle is Equilateral ( all sides are equal ) , isosceles ( only two sides are equal ) or scalene ( no sides are equal ).
 
 Input
-three sides of triangle: 
 ```
+three sides of triangle: 
+
 50
 
 50
 
 60
 ```
+
 Output
 ```
 This is an isosceles triangle.
 ```
  
 ## 5- Max and Min 
-### Write a C++ program that requests four integer values from the user. It then prints the maximum and minimum values entered. 
+#### Write a C++ program that requests four integer values from the user. It then prints the maximum and minimum values entered. 
 ### If the user enters the values 3, 2,5, and 0, the program would indicate that 5 is the maximum and 0 is the minimum.
 
 # 6- Seconds to (hh:mm:ss)
