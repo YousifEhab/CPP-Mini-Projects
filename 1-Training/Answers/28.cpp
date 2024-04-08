@@ -1,3 +1,13 @@
+## 28 - Print Triangle of Stars
+### Print Triangle of Stars: Design a program that prints a triangle of stars (e.g., for input 5, print the following pattern):
+```
+*
+**
+***
+****
+*****
+```
+```cpp
 #include <iostream>
 using namespace std;
 int main()
@@ -21,3 +31,4 @@ int main()
     // system("pause");
     return 0;
 }
+```
