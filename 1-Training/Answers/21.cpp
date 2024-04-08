@@ -1,3 +1,6 @@
+## 21 - Star box
+### Write a C++ program that accepts a single integer value entered by the user. If the value entered is less than one, the program prints nothing. If the user enters a positive integer, n, the program prints an n * n box drawn with '*' character.
+```cpp
 #include <iostream>
 using namespace std;
 int main()
@@ -24,3 +27,4 @@ int main()
 	// system("pause");
 	return 0;
 }
+```
