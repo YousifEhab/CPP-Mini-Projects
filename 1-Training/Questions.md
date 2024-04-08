@@ -2,11 +2,11 @@
 
 ### Ask the user to enter a positive integer and the system prints the negative value of the same integer.
 
-## Input:
+Input:
 ```
 5
 ```
-## Output:
+Output:
 ```
 Negative value of 5 is -5
 ```
