@@ -10,6 +10,7 @@ int main()
     {
         cout << "Enter shoe number " << i + 1 << " size --> ";
         cin >> size;
+        arr[i]=size;
         if (size >= 13)
         {
             adult++;
