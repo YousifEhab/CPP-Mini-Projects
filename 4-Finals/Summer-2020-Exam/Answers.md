@@ -54,17 +54,19 @@ K = 9 Fact = 945 Sum = 948
 ### b)
 ```cpp
 #include <iostream>
-#include <math.h>
+#include <cmath>
 using namespace std;
-int main(){
-    int N;
-    float Sum;
+int main()
+{
+    int n;
+    double sum = 0;
     cout << "Enter the N-th term : ";
-    cin >> N;
-    for (int i=1; i <= (2*N) - 1;i++){
-        Sum += sqrt(i);
+    cin >> n;
+    for (int i = 1; i <= (2 * n) - 1; i++)
+    {
+        sum += pow(-1, i + 1) * sqrt(i);
     }
-    cout << "Sum of the series = " << Sum;
+    cout << "Sum of the series = " << sum;
     return 0;
 }
 ```
