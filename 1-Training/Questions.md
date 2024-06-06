@@ -1,4 +1,3 @@
-Here is the better-structured file:
 
 ## 1. Return Negative
 ### Description
